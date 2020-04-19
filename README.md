@@ -1,2 +1,2 @@
-# ADSCapstone
-Applied Data Science Capstone Project
+# Cousera
+This is my IBM Applied Data Science Capstone Project on Coursera
